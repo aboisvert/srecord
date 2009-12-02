@@ -3,9 +3,12 @@ SRecord
 
 #### A simple persistence layer written in Scala ####
 
-* Not complete
 * An experiment in structuring database / table / rows as dependent objects
   (Cake pattern)
+* Pretty much incomplete with respect to mature ORMs
+* Nevertheless, I use it successfully in personal apps
+
+See src/test for examples.
 
 ### Target platform ###
 
